@@ -1,0 +1,9 @@
+com\college\yawn\controller\ProductController.class
+com\college\yawn\model\Supplier.class
+com\college\yawn\service\ProductService.class
+com\college\yawn\service\ProductServiceImpl.class
+com\college\yawn\dao\ProductDaoImpl.class
+com\college\yawn\controller\HomeController.class
+com\college\yawn\dao\ProductDao.class
+com\college\yawn\model\Category.class
+com\college\yawn\model\Product.class
